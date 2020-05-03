@@ -1,6 +1,5 @@
 window.onload = function() {
   // Create constants
-  //este es mi comentario
   const section = document.querySelector('section');
   const videos = [
     { 'name' : 'crystal' },
